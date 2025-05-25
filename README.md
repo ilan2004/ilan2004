@@ -1,16 +1,75 @@
-## Hi there 👋
+<!-- Profile Readme for Ilan -->
 
-<!--
-**ilan2004/ilan2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  Hey there! 👋 I'm Ilan
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Dev+%7C+Builder+at+Heart;Founder+of+StarShape+Agency;Creating+%F0%9F%8C%90-level+Startups;Fuelled+by+Code+%26+Dreams" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+🎓 3rd-year CS student from Kerala, building tech that matters  
+💡 Founder @ **StarShape** – digital solutions with vision  
+🌍 Currently working on:  
+  - 🎒 **WHETRIP** – immersive VR travel  
+  - 🤖 AI-powered Job Application Agent  
+🎯 Goal: Be financially independent & globally impactful by 25  
+📍 Based in Bangalore, dreaming big!
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind,figma,vercel,js,ts,python,firebase,gcp,docker,mongodb,postgres,git" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilan2004&show_icons=true&theme=radical&hide_rank=false" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilan2004&theme=radical" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilan2004&layout=compact&theme=radical" width="50%" />
+</div>
+
+---
+
+## 🔥 Current Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| **🌍 WHETRIP** | 360° VR Tourism Platform | Next.js, GoPro, Firebase, Maps |
+| **🤖 Job Agent** | AI-based job app automation | n8n, Gemini 2.5 API, Puppeteer |
+| **📊 StarShape Dashboards** | Custom dashboards for clients | Power BI, Supabase, React |
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ilan-usman-ai-ml"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://instagram.com/ilan.vibe"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:ilan.dev@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://ilan.starhshape.in"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+## 💭 Motto
+
+> *"Keep the thoughts high-quality, and reality will follow."*  
+> – Powered by grit, gratitude & good design.
+
+---
+
+⭐️ *Feel free to star a repo, fork a project, or just drop a message. Let's build something legendary together!* 🚀
+
