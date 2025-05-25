@@ -49,7 +49,7 @@
 |--------|-------------|------|
 | **🌍 WHETRIP** | 360° VR Tourism Platform | Next.js, GoPro, Firebase, Maps |
 | **🤖 Job Agent** | AI-based job app automation | n8n, Gemini 2.5 API, Puppeteer |
-| **📊 StarShape Dashboards** | Custom dashboards for clients | Power BI, Supabase, React |
+| **🧩 StarShape Client Sites** | CRM & business websites for real clients | React, Next.js, Supabase, Tailwind, Node.js |
 
 ---
 
