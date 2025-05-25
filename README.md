@@ -63,12 +63,5 @@
 
 ---
 
-## 💭 Motto
-
-> *"Keep the thoughts high-quality, and reality will follow."*  
-> – Powered by grit, gratitude & good design.
-
----
-
 ⭐️ *Feel free to star a repo, fork a project, or just drop a message. Let's build something legendary together!* 🚀
 
