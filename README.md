@@ -17,8 +17,7 @@
 🌍 Currently working on:  
   - 🎒 **WHETRIP** – immersive VR travel  
   - 🤖 AI-powered Job Application Agent  
-🎯 Goal: Be financially independent & globally impactful by 25  
-📍 Based in Bangalore, dreaming big!
+📍 Based in Bangalore 
 
 ---
 
