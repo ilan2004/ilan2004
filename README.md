@@ -15,8 +15,7 @@
 🎓 3rd-year CS student from Kerala, building tech that matters  
 💡 Founder @ **StarShape** – digital solutions with vision  
 🌍 Currently working on:  
-  - 🎒 **WHETRIP** – immersive VR travel  
-  - 🤖 AI-powered Job Application Agent  
+  - 🎒 **WHETRIP** – immersive VR travel   
 📍 Based in Bangalore 
 
 ---
